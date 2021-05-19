@@ -1,3 +1,6 @@
 black
 flake8
 jupyter
+matplotlib
+networkx
+scipy
